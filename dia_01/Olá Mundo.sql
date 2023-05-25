@@ -1,5 +1,5 @@
 -- Databricks notebook source
-SELECT 'Oá Mundo!'
+SELECT 'Olá Mundo!'
 
 -- COMMAND ----------
 
